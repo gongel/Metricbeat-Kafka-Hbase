@@ -9,7 +9,7 @@ public class MyKafkaProducer extends Thread{
     public  MyKafkaProducer(String topic){
         this.topic = topic;
         Properties props = new Properties();
-        props.put("bootstrap.servers", "10.141.211.131:9092");
+        props.put("bootstrap.servers", "10.141.211.131:9092,10.141.211.132:9092,10.141.211.133:9092,10.141.211.134:9092,10.141.211.135:9092");
         props.put("acks", "all");
         props.put("retries", 0);
         props.put("batch.size", 16384);
