@@ -1,0 +1,3 @@
+演练测试：MyKafkaConsumer，MyKafkaProducer，KafkaProducerTest，KafkaConsumerTest
+参考文件：HBaseUtils
+正式文件：HbaseOp，JsonReader，KafkaToHbase，问题：没能动态建列族，日志的表结构未定

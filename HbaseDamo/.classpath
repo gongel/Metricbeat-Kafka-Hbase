@@ -10,7 +10,6 @@
 	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/kafka_2.11-1.1.0/libs/connect-json-1.1.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/kafka_2.11-1.1.0/libs/connect-runtime-1.1.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/kafka_2.11-1.1.0/libs/connect-transforms-1.1.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/kafka_2.11-1.1.0/libs/guava-20.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/kafka_2.11-1.1.0/libs/hk2-api-2.5.0-b32.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/kafka_2.11-1.1.0/libs/hk2-locator-2.5.0-b32.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/kafka_2.11-1.1.0/libs/hk2-utils-2.5.0-b32.jar"/>
@@ -197,5 +196,11 @@
 	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/hbase-1.1.5-bin/hbase-1.1.5/lib/xom-1.2.5.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/hbase-1.1.5-bin/hbase-1.1.5/lib/xz-1.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/hbase-1.1.5-bin/hbase-1.1.5/lib/zookeeper-3.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/JSONLibraries/commons-beanutils-1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/JSONLibraries/commons-collections.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/JSONLibraries/commons-lang.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/JSONLibraries/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/JSONLibraries/ezmorph.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/JSONLibraries/json-lib-2.2.2-jdk15.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
