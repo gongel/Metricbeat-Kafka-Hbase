@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9fff40c9-adee-4960-882e-6037abb28fbb" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/repository.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HbaseDamo/bin/HBaseUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HbaseDamo/bin/HbaseOp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HbaseDamo/bin/JsonReader.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HbaseDamo/bin/KafkaConsumerTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HbaseDamo/bin/KafkaProducerTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HbaseDamo/bin/KafkaToHbase.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HbaseDamo/bin/MyKafkaConsumer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HbaseDamo/bin/MyKafkaProducer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HbaseDamo/bin/README" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Proj" beforeDir="false" afterPath="$PROJECT_DIR$/Proj" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -46,6 +34,16 @@
             <path>
               <item name="repository" type="b2602c69:ProjectViewProjectNode" />
               <item name="repository" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="repository" type="b2602c69:ProjectViewProjectNode" />
+              <item name="repository" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="repository" type="b2602c69:ProjectViewProjectNode" />
+              <item name="repository" type="462c0819:PsiDirectoryNode" />
+              <item name="Proj" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
