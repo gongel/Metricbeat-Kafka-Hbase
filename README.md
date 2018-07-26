@@ -1,0 +1,3 @@
+Proj加上了stream
+
+HbaseDemo只是简单的消费者
